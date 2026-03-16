@@ -1,6 +1,6 @@
 # OmniScout
 
-OmniScout is an autonomous AI research agent designed to perform deep information retrieval and analysis. Built with Python and powered by Google's Gemini 1.5 Flash model, it demonstrates modern agentic workflows and secure development practices.
+OmniScout is an autonomous AI research agent designed to perform deep information retrieval and analysis. Built with Python and powered by Google's Gemini 2.5 Flash model, it demonstrates modern agentic workflows and secure development practices.
 
 ## 🚀 Features
 - **Autonomous Research:** Leverages LLMs to decompose complex queries into actionable tasks.
@@ -9,7 +9,7 @@ OmniScout is an autonomous AI research agent designed to perform deep informatio
 
 ## 🛠 Tech Stack
 - **Language:** Python 3.14+
-- **LLM:** Google Gemini 1.5 Flash
+- **LLM:** Google Gemini 2.5 Flash
 - **Framework:** LangChain (Architectural foundation for the agent)
 - **Environment Management:** Python venv & python-dotenv
 
