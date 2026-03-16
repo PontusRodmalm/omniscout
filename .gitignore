@@ -6,6 +6,6 @@ __pycache__/
 # Secrets
 .env
 
-# System files
+# System filesgot 
 .DS_Store
 Thumbs.db

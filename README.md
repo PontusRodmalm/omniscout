@@ -24,3 +24,6 @@ OmniScout is an autonomous AI research agent designed to perform deep informatio
    ```bash
    git clone [https://github.com/your-username/omniscout.git](https://github.com/PontusRodmalm/omniscout.git)
    cd omniscout
+
+### Diagnostic Tools
+Included is a check_models.py script to verify available Gemini model IDs and API connectivity.
